@@ -1,0 +1,19 @@
+{
+  "name": "geometry-rect",
+  "version": "0.0.1",
+  "description": "2D Geometry Rectangle Util",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seongdohee/geometry-rect.git"
+  },
+  "author": "dohee seong <seong0420hei@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seongdohee/geometry-rect/issues"
+  },
+  "homepage": "https://github.com/seongdohee/geometry-rect#readme"
+}
